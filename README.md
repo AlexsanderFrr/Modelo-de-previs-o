@@ -10,21 +10,21 @@ Neste exercício, será usado o recurso de aprendizado de máquina automatizado 
 
 ### Primeiro
 Após seguir todo o passo a passo pela documentação oficial aa aba métricas como indicado na imagem abaixo para visualização dos gráficos 
-![alt text](image.png)
+![alt text](imgs/image.png)
 
 ### Segundo
 
 Na aba clique na aba Modelo → Implantar → Serviço Web
-![alt text](image-1.png)
+![alt text](imgs/image-1.png)
 
 Em seguida aparecerá a aba de preenchimento e preencha com os eguintes dados da imagem abaixo
-![alt text](image-2.png)
+![alt text](imgs/image-2.png)
 
 após finalizado a etapa anterior, vá na aba lateral em pontos de extremidade e clique no arquivo prever-alugueis
-![alt text](image-3.png)
+![alt text](imgs/image-3.png)
 
 clique na aba Testar e aqui você verá um código JSON
-![alt text](image-4.png)
+![alt text](imgs/image-4.png)
 
 Troque o código pelo fornecido abaixo e teste
 
@@ -52,4 +52,4 @@ Troque o código pelo fornecido abaixo e teste
  }
 ```
 O resultado deve ser algo semelhante ao da imagem abaixo
-![alt text](image-5.png)
+![alt text](imgs/image-5.png)
